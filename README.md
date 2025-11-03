@@ -32,9 +32,10 @@ El portal va a incluir:
 
 El sistema se basa en una arquitectura **cliente-servidor**, compuesta por:
 
-- **Frontend:** React (HTML, TypeScript, Estilos Bootstrap).  
+- **Frontend:** Angular (HTML, TypeScript, Estilos Bootstrap).  
 - **Backend:** Java con Spring Boot (gestión de lógica y endpoints).  
 - **Base de datos:** MySQL (almacenamiento de los productos).
   
 ---
+
 
